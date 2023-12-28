@@ -1,0 +1,6 @@
+2023/12/28-12:48:20.933 3ea8 Reusing MANIFEST C:\Users\Mr Ukasha\Desktop\Trying\zap-gpt-main\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2023/12/28-12:48:20.935 3ea8 Recovering log #4
+2023/12/28-12:48:20.976 3ea8 Reusing old log C:\Users\Mr Ukasha\Desktop\Trying\zap-gpt-main\.wwebjs_auth\session\Default\Local Storage\leveldb/000004.log 
+2023/12/28-12:50:29.730 3328 Level-0 table #8: started
+2023/12/28-12:50:29.771 3328 Level-0 table #8: 13897 bytes OK
+2023/12/28-12:50:29.775 3328 Delete type=0 #4
